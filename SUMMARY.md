@@ -8,29 +8,29 @@ title: Akka.NET Documentation
 
 ## Akka.NET Framework
 ### Introduction
-- [What is Akka?](What is Akka)
-- [Why Akka?](Why Akka)
-- [Getting Started](Getting started)
-- [The Obligatory Hello World](The Obligatory Hello World)
+- [What is Akka?](What is Akka.md)
+- [Why Akka?](Why Akka.md)
+- [Getting Started](Getting started.md)
+- [The Obligatory Hello World](The Obligatory Hello World.md)
 - Use-case and Deployment Scenarios
 	- [Console](deployment-scenarios/Console)
 	- [ASP.NET](deployment-scenarios/ASP NET)
 	- [Windows Service](deployment-scenarios/Windows Service)
 	- [Azure PaaS Worker Role](deployment-scenarios/Azure PaaS Worker Role)
-- [Examples of use-cases for Akka](Examples of use cases for Akka)
+- [Examples of use-cases for Akka](Examples of use cases for Akka.md)
 
 ## Akka.NET Concepts
-- [Terminology, Concepts](concepts/terminology)
-- [Actor Systems](concepts/actorsystem)
-- [What is an Actor?](concepts/actors)
-- [What is a Message?](concepts/messages)
+- [Terminology, Concepts](concepts/terminology.md)
+- [Actor Systems](concepts/actorsystem.md)
+- [What is an Actor?](concepts/actors.md)
+- [What is a Message?](concepts/messages.md)
     - [Immutability](concepts/messagesindex.md#messages-are-immutable)
-- [Supervision and Monitoring](concepts/supervision)
-- [Actor References, Paths and Addresses](concepts/addressing)
+- [Supervision and Monitoring](concepts/supervision.md)
+- [Actor References, Paths and Addresses](concepts/addressing.md)
 - [Location Transparency](concepts/location-transparency)
 - [Message Delivery Reliability](concepts/message-delivery-reliability)
-- [Configuration](concepts/configuration)
-    - [HOCON](concepts/hocon)
+- [Configuration](concepts/configuration.md)
+    - [HOCON](concepts/hocon.md)
 
 ### Working with Actors
 - [Creating your first Actor](working-with-actors/creating-actors)
@@ -47,15 +47,15 @@ title: Akka.NET Documentation
 - [Stopping Actors](working-with-actors/stopping-actors)
 
 ### Actors
-- [Working with actors](Working with actors)
-- [F# API](FSharp API)
-- [ReceiveActors](ReceiveActor)
-- [Finite State Machines](FSM)
-- [Persistence](Persistence)
-- [Fault Tolerance](Fault tolerance)
-- [Props](Props)
-- [Receive timeout](Receive timeout)
-- [Dependency injection](Dependency injection)
+- [Working with actors](Working with actors.md)
+- [F# API](FSharp API.md)
+- [ReceiveActors](ReceiveActor.md)
+- [Finite State Machines](FSM.md)
+- [Persistence](Persistence.md)
+- [Fault Tolerance](Fault tolerance.md)
+- [Props](Props.md)
+- [Receive timeout](Receive timeout.md)
+- [Dependency injection](Dependency injection.md)
 - [Routers](working-with-actors/Routers)
 
 ### Akka.Remote
@@ -64,17 +64,17 @@ title: Akka.NET Documentation
     - [Enabling Akka.Remote](remoting/index.md#enabling-akka-remote)
     - [Remote Addressing](remoting/index.md#addresses-transports-endpoints-and-associations)
     - [Connecting Remote Systems](remoting/index.md#how-to-form-associations-between-remote-systems)
-- [Transports](remoting/transports)
+- [Transports](remoting/transports.md)
     - [Built-in Transports](remoting/transportsindex.md#akka-remote-s-built-in-transports)
     - [Custom Transports](remoting/transportsindex.md#using-custom-transports)
     - [Running Multiple Transports Simultaneously](remoting/transportsindex.md#running-multiple-transports-simultaneously)
-- [Remote Messaging](remoting/messaging)
+- [Remote Messaging](remoting/messaging.md)
     - [Serialization](remoting/messagingindex.md#serialization)
     - [RemoteActorRefs](remoting/messagingindex.md#-remoteactorref-and-location-transparency)
-- [Deploying Actors Remotely](remoting/deployment)
+- [Deploying Actors Remotely](remoting/deployment.md)
     - [When to Use Remote Deployment](remoting/deploymentindex.md#when-to-use-remote-deployment)
-- [Detecting & Handling Network Failures (DeathWatch)](remoting/deathwatch)
-- [Network Security](remoting/security)
+- [Detecting & Handling Network Failures (DeathWatch)](remoting/deathwatch.md)
+- [Network Security](remoting/security.md)
 
 ### Akka.Cluster
 - [Akka.Cluster Overview](clustering/cluster-overview)
@@ -106,35 +106,35 @@ title: Akka.NET Documentation
 - [Akka.Cluster.Sharding module](clustering/cluster-sharding)
 
 ### Networking
-- [Serialization](Serialization)
-- [Akka I/O](IO)
+- [Serialization](Serialization.md)
+- [Akka I/O](IO.md)
 
 ### Utilities
-- [EventBus](EventBus)
-- [Logging](Logging)
-  - [Using Serilog](Serilog)
-- [Scheduler](Scheduler)
-- [Circuit Breaker](CircuitBreaker)
+- [EventBus](EventBus.md)
+- [Logging](Logging.md)
+  - [Using Serilog](Serilog.md)
+- [Scheduler](Scheduler.md)
+- [Circuit Breaker](CircuitBreaker.md)
 
 ### Testing
 - [Using the MultiNode Testkit for Testing Distributed ActorSystems](testing/multinode-testkit)
 
 ### Information for Akka Developers
-- [Building and Distributing Akka.NET](Building and Distributing Akka)
+- [Building and Distributing Akka.NET](Building and Distributing Akka.md)
 - [Getting Access to Nightly Akka.NET Builds](akka-developers/nightly-builds)
 - [Approving Public API Changes](akka-developers/public-api-changes)
-- [Contributor guidelines](Contributor guidelines)
-- [Contribution ideas](Extension Ideas)
-- [Documentation Guidelines](Documentation guidelines)
-- [Team](Team)
+- [Contributor guidelines](Contributor guidelines.md)
+- [Contribution ideas](Extension Ideas.md)
+- [Documentation Guidelines](Documentation guidelines.md)
+- [Team](Team.md)
 
 ### Project Information
-- [Licenses](Licenses)
-- [Sponsors](Sponsors)
-- [Project](Project)
+- [Licenses](Licenses.md)
+- [Sponsors](Sponsors.md)
+- [Project](Project.md)
 
 ### Additional Information
-- [Frequently Asked Questions](FAQ)
-- [Community plugins](Community Plugins)
-- [Online resources](Resources)
-- [Books](Books)
+- [Frequently Asked Questions](FAQ.md)
+- [Community plugins](Community Plugins.md)
+- [Online resources](Resources.md)
+- [Books](Books.md)
