@@ -1,3 +1,8 @@
+---
+layout: docs.hbs
+title: Akka.NET Documentation
+---
+
 ## Akka.NET API Docs
 - [1.0 Stable API](http://api.getakka.net/docs/stable/index.html)
 
@@ -56,7 +61,7 @@
 ### Akka.Remote
 - [Akka.Remote Overview](remoting/index.md)
     - [Use Cases](remoting/index.md#use-cases)
-    - [Enabling Akka.Remote](remoting/index.mdindex.md#enabling-akka-remote)
+    - [Enabling Akka.Remote](remoting/index.md#enabling-akka-remote)
     - [Remote Addressing](remoting/index.md#addresses-transports-endpoints-and-associations)
     - [Connecting Remote Systems](remoting/index.md#how-to-form-associations-between-remote-systems)
 - [Transports](remoting/transports)
