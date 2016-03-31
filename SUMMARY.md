@@ -60,7 +60,7 @@ title: Akka.NET Documentation
 
 ### Akka.Remote
 - [Akka.Remote Overview](remoting/index.md)
-    - [Use Cases](remoting/index.md#use-cases)
+    - [Use Cases](remoting/index.md#use-cases1)
     - [Enabling Akka.Remote](remoting/index.md#enabling-akka-remote)
     - [Remote Addressing](remoting/index.md#addresses-transports-endpoints-and-associations)
     - [Connecting Remote Systems](remoting/index.md#how-to-form-associations-between-remote-systems)
