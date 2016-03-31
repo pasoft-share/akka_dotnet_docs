@@ -60,10 +60,10 @@ title: Akka.NET Documentation
 
 ### Akka.Remote
 - [Akka.Remote Overview](remoting/index.md)
-    - [Use Cases](remoting/#use-cases)
-    - [Enabling Akka.Remote](remoting/#enabling-akka-remote)
-    - [Remote Addressing](remoting/#addresses-transports-endpoints-and-associations)
-    - [Connecting Remote Systems](remoting/#how-to-form-associations-between-remote-systems)
+    - [Use Cases](remoting/index.md#use-cases)
+    - [Enabling Akka.Remote](remoting/index.md#enabling-akka-remote)
+    - [Remote Addressing](remoting/index.md#addresses-transports-endpoints-and-associations)
+    - [Connecting Remote Systems](remoting/index.md#how-to-form-associations-between-remote-systems)
 - [Transports](remoting/transports.md)
     - [Built-in Transports](remoting/transports#akka-remote-s-built-in-transports)
     - [Custom Transports](remoting/transports#using-custom-transports)
