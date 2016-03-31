@@ -51,7 +51,7 @@ Akka Remoting is a communication module for connecting actor systems in a peer-t
 The consequence of these decisions is that it is not possible to safely create pure client-server setups with predefined roles (violates assumption 2) and using setups involving Network Address Translation or Load Balancers (violates assumption 1).
 
 For client-server setups it is better to use HTTP or [Akka I/O](../IO).
-
+#Use Cases1
 ###Use Cases
 Akka.Remote is most commonly used in distributed applications that run across the network, some examples include:
 
