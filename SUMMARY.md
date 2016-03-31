@@ -24,7 +24,7 @@ title: Akka.NET Documentation
 - [Actor Systems](concepts/actorsystem.md)
 - [What is an Actor?](concepts/actors.md)
 - [What is a Message?](concepts/messages.md)
-    - [Immutability](concepts/messages#messages-are-immutable)
+    - [Immutability](concepts/messages/index.md#messages-are-immutable)
 - [Supervision and Monitoring](concepts/supervision.md)
 - [Actor References, Paths and Addresses](concepts/addressing.md)
 - [Location Transparency](concepts/location-transparency.md)
