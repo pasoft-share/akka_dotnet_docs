@@ -52,7 +52,7 @@ The consequence of these decisions is that it is not possible to safely create p
 
 For client-server setups it is better to use HTTP or [Akka I/O](../IO).
 
-### Use Cases
+###Use Cases
 Akka.Remote is most commonly used in distributed applications that run across the network, some examples include:
 
 1. Client applications (WPF, Windows Forms) with duplex communication requirements with remote servers;
