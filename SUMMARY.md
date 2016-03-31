@@ -59,7 +59,7 @@ title: Akka.NET Documentation
 - [Routers](working-with-actors/Routers)
 
 ### Akka.Remote
-- [Akka.Remote Overview](remoting/)
+- [Akka.Remote Overview](remoting/index.md)
     - [Use Cases](remoting/#use-cases)
     - [Enabling Akka.Remote](remoting/#enabling-akka-remote)
     - [Remote Addressing](remoting/#addresses-transports-endpoints-and-associations)
