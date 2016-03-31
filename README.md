@@ -3,7 +3,7 @@
 ## Contributing to the docs
 We welcome contributions from anyone! Contributions to the docs can be done in two ways:
 
-1. Fork and Clone this repository, and send your changes in via pull request. [*Read and follow the docs guidelines here*](DOCS_GUIDELINES.md).
+1. Fork and Clone this repository, and send your changes in via pull request. [*Read and follow the docs guidelines here*](Documentation guidelines.md).
 2. You can use the `Edit on GitHub` link on each page of [the live docs](http://getakka.net/docs), this will take you to an edit mode version of the page here on GitHub. If you don't have commit rights for this repo, Github will allow you to make an ad hoc pull request right there.
 
 ## Deployment
