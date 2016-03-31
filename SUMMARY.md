@@ -120,7 +120,7 @@ title: Akka.NET Documentation
 - [Using the MultiNode Testkit for Testing Distributed ActorSystems](testing/multinode-testkit.md)
 
 ### Information for Akka Developers
-- [Building and Distributing Akka.NET](Building and Distributing Akka.md)
+- [Building and Distributing Akka.NET](Building and Distributing Akka.NET.md)
 - [Getting Access to Nightly Akka.NET Builds](akka-developers/nightly-builds.md)
 - [Approving Public API Changes](akka-developers/public-api-changes.md)
 - [Contributor guidelines](Contributor guidelines.md)
